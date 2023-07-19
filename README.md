@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m an employee at Colgate University.
 - 👩‍💻 My job title is Business Process Analyst.
-- ✍️ I'm currently working on Hyland OnBase for digitizing workflow, and UiPath systems for process automation.
+- ✍️ I'm currently working on Hyland OnBase for digitizing paper documents and automating business processes.
 - ⚡ Fun fact: I adopted a rescue animal 🐱
